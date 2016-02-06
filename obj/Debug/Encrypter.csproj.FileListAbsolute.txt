@@ -1,0 +1,6 @@
+C:\Users\David\Documents\SharpDevelop Projects\Encrypter\Encrypter\obj\Debug\Encrypter.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\SharpDevelop Projects\Encrypter\Encrypter\bin\Debug\Haystack.exe.config
+C:\Users\David\Documents\SharpDevelop Projects\Encrypter\Encrypter\bin\Debug\Haystack.exe
+C:\Users\David\Documents\SharpDevelop Projects\Encrypter\Encrypter\bin\Debug\Haystack.pdb
+C:\Users\David\Documents\SharpDevelop Projects\Encrypter\Encrypter\obj\Debug\Haystack.exe
+C:\Users\David\Documents\SharpDevelop Projects\Encrypter\Encrypter\obj\Debug\Haystack.pdb
